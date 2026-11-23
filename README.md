@@ -28,3 +28,9 @@ This project brings together electronics, programming, sensors, and a growing in
 Because sometimes, the best way to understand the world is to start measuring it.
 
 **Welcome to Gaia-01.** 🌍
+
+**Hardware Needed⚙️**
+- ESP 32 Development Board 
+- DHT11 Temperature + Humidity Sensor 
+- BMP280 Barometric Pressure Sensor Module 3.3V
+- 2.8inch LCD Touchscreen ESP32 CYD Module – WiFi/Bluetooth
