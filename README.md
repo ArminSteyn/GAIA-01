@@ -30,7 +30,13 @@ Because sometimes, the best way to understand the world is to start measuring it
 **Welcome to Gaia-01.** 🌍
 
 **Hardware Needed⚙️**
-- ESP 32 Development Board 
 - DHT11 Temperature + Humidity Sensor 
 - BMP280 Barometric Pressure Sensor Module 3.3V
 - 2.8inch LCD Touchscreen ESP32 CYD Module – WiFi/Bluetooth
+Note: The LCD Touchscreen comes with a ESP 32 soldered to it, so no nee to buy a separate development board!
+
+**Product Links🌐**
+
+DHT11 Temperature + Humidity Sensor: https://www.diyelectronics.co.za/store/humidity/1315-humidity-temp-sensor-arduino-compatible.html?utm_campaign=google_shopping&utm_source=cpc&utm_medium=evergreen&utm_content=20484314766&gad_source=1&gad_campaignid=20484314766&gbraid=0AAAAADpm0I9pvJZWZqvpU5OLmm3fB2tIs&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7T2NDvdxhmVs46lyIn3pfHzJGDAZxpK06pStntr2l7_BAqGtlWo63hoC6_gQAvD_BwE
+BMP280 Barometric Pressure Sensor Module – 3.3V: https://www.diyelectronics.co.za/store/pressure/5554-bmp280-barometric-pressure-sensor-module-33v.html?utm_campaign=google_shopping&utm_source=cpc&utm_medium=evergreen&utm_content=20484314766&gad_source=1&gad_campaignid=20484314766&gbraid=0AAAAADpm0I9pvJZWZqvpU5OLmm3fB2tIs&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7bqdMcML8o6CSjqVn7kwsYcOP5MiNySBQkxvJRobusaIQhXE8qrD3BoCPcoQAvD_BwE
+2.8inch LCD Touchscreen ESP32 CYD Module – WiFi/Bluetooth: https://www.diyelectronics.co.za/store/iot/5622-8inch-lcd-touchscreen-esp32-cyd-module-wifibluetooth.html?utm_campaign=google_shopping&utm_source=cpc&utm_medium=evergreen&utm_content=20484314766&gad_source=1&gad_campaignid=20484314766&gbraid=0AAAAADpm0I9pvJZWZqvpU5OLmm3fB2tIs&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7QkI7d3AEn79jnvirFJVW2dOwIlpFDEHy981dLHr1yruBMilhO48gxoC2OYQAvD_BwE
