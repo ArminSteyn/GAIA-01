@@ -30,10 +30,11 @@ Because sometimes, the best way to understand the world is to start measuring it
 **Welcome to Gaia-01.** 🌍
 
 **Hardware Needed⚙️**
-- DHT11 Temperature + Humidity Sensor 
-- BMP280 Barometric Pressure Sensor Module 3.3V
+- DHT11 Temperature + Humidity Sensor (Measures Humidity + Temperature)
+- BMP280 Barometric Pressure Sensor Module 3.3V (Measures Temperature and Barometric Pressure)
 - 2.8inch LCD Touchscreen ESP32 CYD Module – WiFi/Bluetooth
-Note: The LCD Touchscreen comes with a ESP 32 soldered to it, so no nee to buy a separate development board!
+
+Note: The LCD Touchscreen comes with a ESP 32 soldered to it, so no need to buy a separate development board The pressure sensor also senses the temperature, but I couldn't find a separate humidity sensor anywhere for South Africa without a already included temperature sensor unfortunately :(
 
 **Product Links🌐**
 
